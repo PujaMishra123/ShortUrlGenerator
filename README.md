@@ -10,3 +10,8 @@
 #Tech stack
 *Java*<br>
 *Spring Boot*
+
+#Instructions for project setup
+*clean and build project: ./gradlew clean build*<br>
+*run the project: ./gradlew bootJar*<br>
+*run the tests: ./gradlew clean test*
